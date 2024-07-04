@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+# Arquivo enfileramento-range.py
 import requests
 
 def get_user_input():
